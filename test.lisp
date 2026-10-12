@@ -6,4 +6,4 @@
 
 (times)
 
-(format t "~%")
+(format t "---> ~%")
