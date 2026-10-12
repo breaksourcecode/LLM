@@ -5,3 +5,5 @@
 (test)
 
 (times)
+
+(format t "~%")
